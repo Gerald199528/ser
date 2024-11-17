@@ -1,0 +1,1 @@
+<script src="<?php echo SERVERURL; ?>Vista/js/sweetalert2.all.min .js" ></script>
